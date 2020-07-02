@@ -1,0 +1,15 @@
+com.hand.docker
+com.hand.docker.api.controller.v1
+com.hand.docker.app.service
+com.hand.docker.app.service.impl
+com.hand.docker.config
+com.hand.docker.domain.entity
+com.hand.docker.domain.repository
+com.hand.docker.domain.service
+com.hand.docker.domain.service.impl
+com.hand.docker.infra.constant
+com.hand.docker.infra.feign
+com.hand.docker.infra.feign.fallback
+com.hand.docker.infra.mapper
+com.hand.docker.infra.repository.impl
+com.hand.docker.infra.util

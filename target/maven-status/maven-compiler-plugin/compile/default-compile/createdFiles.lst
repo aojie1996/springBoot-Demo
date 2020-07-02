@@ -1,0 +1,16 @@
+com/hand/docker/infra/feign/fallback/DemoFeignFallBack.class
+com/hand/docker/config/SwaggerTags.class
+com/hand/docker/app/service/ExampleService.class
+com/hand/docker/infra/repository/impl/ExampleRepositoryImpl.class
+com/hand/docker/infra/util/Utils.class
+com/hand/docker/api/controller/v1/ExampleController.class
+com/hand/docker/domain/repository/ExampleRepository.class
+com/hand/docker/infra/feign/DemoFeign.class
+com/hand/docker/infra/mapper/ExampleMapper.class
+com/hand/docker/app/service/impl/ExampleServiceImpl.class
+com/hand/docker/domain/service/impl/SpecialServiceImpl.class
+com/hand/docker/infra/constant/Constants.class
+com/hand/docker/domain/entity/Example.class
+com/hand/docker/domain/service/SpecialService.class
+com/hand/docker/SpringBootDockerApplication.class
+com/hand/docker/config/RouteExtraDataManager.class
